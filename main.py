@@ -26,4 +26,4 @@ para=soup.find_all('p')
 print(soup.find('p'))# gives the first paragraph
 #print(soup.find('p')['class']) get the class
 print(soup.find('p').get_text())
-print(soup.get_text())
+#print(soup.get_text())
